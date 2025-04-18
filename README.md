@@ -13,7 +13,7 @@
 ## Practice webform for learners
 ### Link:  https://www.digitalunite.com/practice-webform-learners
 
-https://github.com/user-attachments/assets/945e2599-47ee-4a5c-beb3-d79c18581b17
+https://github.com/user-attachments/assets/24c75bac-5813-462e-8c0c-95bfff91b279
 
 ### Output Screeshot:
 
@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/945e2599-47ee-4a5c-beb3-d79c18581b17
 ## Registration Form Completion
 ### Link:  https://demo.wpeverest.com/user-registration/guest-registration-form/
 
-https://github.com/user-attachments/assets/64d87ac8-ada0-4b72-861f-e094a68ed70a
+https://github.com/user-attachments/assets/7ee5acd0-b156-4aeb-bc52-f7239b48221b
 
 ### Output Screeshot:
 
@@ -32,7 +32,8 @@ https://github.com/user-attachments/assets/64d87ac8-ada0-4b72-861f-e094a68ed70a
 
 ## Srcap Table
 ### Link:  https://dsebd.org/latest_share_price_scroll_by_value.php
-https://github.com/user-attachments/assets/196599a8-69f6-4cca-bfca-530a5d5c71f8
+
+https://github.com/user-attachments/assets/832fcafa-2232-4a0e-acc2-6eb8514009e6
 
 ### Output Screeshot:
 
