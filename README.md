@@ -17,7 +17,8 @@ https://github.com/user-attachments/assets/945e2599-47ee-4a5c-beb3-d79c18581b17
 
 ### Output Screeshot:
 
-![j1](https://github.com/user-attachments/assets/63b2476f-0edb-4403-9bef-ccbf194bbf4f)
+![ju1](https://github.com/user-attachments/assets/b79332c3-11c9-4bd5-89fb-8c66450706e5)
+
 
 ## Registration Form Completion
 ### Link:  https://demo.wpeverest.com/user-registration/guest-registration-form/
@@ -26,7 +27,7 @@ https://github.com/user-attachments/assets/64d87ac8-ada0-4b72-861f-e094a68ed70a
 
 ### Output Screeshot:
 
-![j2](https://github.com/user-attachments/assets/ab6c7206-2df0-487b-9183-fdef9aefe436)
+![ju2](https://github.com/user-attachments/assets/6510c2a4-a874-4d7c-99e8-f6e4a6e8b276)
 
 
 ## Srcap Table
@@ -34,7 +35,9 @@ https://github.com/user-attachments/assets/64d87ac8-ada0-4b72-861f-e094a68ed70a
 https://github.com/user-attachments/assets/196599a8-69f6-4cca-bfca-530a5d5c71f8
 
 ### Output Screeshot:
-![j3](https://github.com/user-attachments/assets/838c2a07-3da9-4327-8602-29098c3fffa0)
+
+![ju3](https://github.com/user-attachments/assets/dc572681-015e-45ef-8da7-a2ed1d23a063)
+
 
 
 
